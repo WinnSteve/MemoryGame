@@ -1,0 +1,32 @@
+body {
+	background-color: black;
+	background-image: url("https://wallpapercave.com/wp/wp2394221.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-size: 100% 100%;
+	text-align: center;
+}
+
+h1 {
+	color: darkorange;
+	text-align: center;
+	text-decoration: underline;
+	text-shadow: 3px 3px 10px darkcyan;
+	font-family: papyrus, fantasy;
+	font-size: 4em;
+	border-bottom: 10px solid orangered;
+}
+
+#game div {
+	border: 3px solid white;
+	width: 15%;
+	height: 200px;
+	margin: 10px;
+	display: inline-block;
+	background-color: black;
+	background-image: url("https://archives.bulbagarden.net/media/upload/thumb/6/64/025Pikachu_Y_2.png/600px-025Pikachu_Y_2.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
